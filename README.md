@@ -4,10 +4,11 @@ Repositório para armazenar os Desafios de projetos do bootcamp Data Analytics c
 
 ## 💻 Desafios Entregues
 
-| Nº | Desafio | Entrega | 
+| Módulo | Desafio | Entrega | 
 |----|---------|---------|
-|  1 | [Contribuindo em um Projeto Open Source no GitHub](https://github.com/gaabcostaa/bootcamp-da-com-pbi-dio/tree/main/1.%20Contribuindo%20em%20um%20Projeto%20Open%20Source%20no%20GitHub) | 18/06/2024 |
-|2 |[Analisando dados de um Dashboard de Vendas no Power BI](https://github.com/gaabcostaa/bootcamp-da-com-pbi-dio/tree/main/2.%20Analisando%20dados%20de%20um%20Dashboard%20de%20Vendas%20no%20Power%20BI)|20/06/2024|
+| 1 | [Contribuindo em um Projeto Open Source no GitHub](https://github.com/gaabcostaa/bootcamp-da-com-pbi-dio/tree/main/1.%20Contribuindo%20em%20um%20Projeto%20Open%20Source%20no%20GitHub) | 18/06/2024 |
+| 2 |[Analisando dados de um Dashboard de Vendas no Power BI](https://github.com/gaabcostaa/bootcamp-da-com-pbi-dio/tree/main/2.%20Analisando%20dados%20de%20um%20Dashboard%20de%20Vendas%20no%20Power%20BI)|20/06/2024|
+| 3 | (Criando Um Relatório Gerencial de Vendas com Power BI)[]
 
 ##  🛠 Habilidades
 - Git
